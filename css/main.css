@@ -181,10 +181,6 @@ body {
   .ww-rsvp-detail .ww-rsvp-form {
     padding-left: 10%;
   }
-
-  .ww-home-page .ww-wedding-announcement .ww-couple-name {
-    font-size: 56px;
-  }
 }
 
 @media (max-width: 576px) {
